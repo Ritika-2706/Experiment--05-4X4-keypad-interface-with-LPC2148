@@ -1,8 +1,8 @@
 # Experiment--05-4X4-keypad-interface-with-LPC2148
 
-Name : EASWAR.J
+Name : RITIKA S
 
-Roll no :212221230024
+Roll no :212221240046
 
 Date of experiment : 02-11-22
 
